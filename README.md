@@ -1,4 +1,4 @@
 samples
 =======
 
-Samples.
+Samples
